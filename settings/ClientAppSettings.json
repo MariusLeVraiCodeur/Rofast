@@ -1,0 +1,23 @@
+{
+    "FFlagDebugDisplayFPS": "True",
+    "FFlagReconnectDisabled": "True",
+    "FStringReconnectDisabledReason": "Thanks to use RoFast",
+    "FFlagDebugRenderingSetDeterministic": "True",
+    "FFlagDebugGraphicsPreferD3D11FL10": "True",
+    "FIntTerrainArraySliceSize": "4",
+    "DFIntTaskSchedulerTargetFps": "999",
+    "DFFlagDebugEnableInterpolationVisualizer": "True",
+    "DFIntDebugFRMQualityLevelOverride": "1" ,
+    "FIntRenderShadowIntensity": "0" ,
+    "FIntDebugForceMSAASamples": "2" ,
+    "DFFlagDebugDisableTimeoutDisconnect": "True" ,
+    "FFlagAdServiceEnabled": "False" ,
+    "DFFlagEnableDynamicHeadByDefault": "False"
+
+
+
+
+
+
+
+}
